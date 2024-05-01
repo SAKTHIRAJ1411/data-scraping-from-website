@@ -8,6 +8,7 @@ Information Extraction: Identify and extract relevant data elements from the tab
 Data Refinement: Implement methods to clean and preprocess the retrieved data, addressing any irregularities encountered during extraction.
 Data Storage: Save the extracted data in a suitable format, such as CSV, Excel, or a chosen database system (e.g., SQLite, MySQL).
 Automation: Enable the script to run automatically at scheduled intervals or on-demand to maintain up-to-date data.
+
 Technologies and Tools:
 
 Python: Employ Python as the primary programming language for web scraping and data manipulation.
@@ -15,11 +16,13 @@ BeautifulSoup: Utilize the BeautifulSoup library to parse HTML and extract data 
 Requests: Use the Requests library to retrieve HTML content from the target website.
 Pandas: Leverage the Pandas library for data manipulation and cleaning tasks.
 Storage Formats: Choose an appropriate format for storing the extracted data based on project requirements (e.g., CSV, Excel, database).
+
 Deliverables:
 
 Well-documented Python script for web scraping, including clear comments.
 Extracted data saved in a structured format, such as a CSV file or database entries.
 Comprehensive project documentation outlining the architecture, usage instructions, and any dependencies.
+
 Optional Enhancements:
 
 Implement robust error handling mechanisms to manage connectivity issues or website structure changes.
